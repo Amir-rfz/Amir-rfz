@@ -10,7 +10,12 @@
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=Amir-rfz&color=grey">
 </p>
+
 <p align="center">
     <a href="https://leetcode.com//u/amirrfz2003/"><img width="48%" src="https://leetcode.card.workers.dev/u/amirrfz2003/?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
-    <a href="https://github.com/Amir-rfz"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-rfz&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
+<br>
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amir-rfz&show_icons=true&locale=en&layout=compact&theme=dark" alt="Amir-rfz" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Amir-rfz&show_icons=true&locale=en&theme=dark" alt="Amir-rfz" /></p>
