@@ -16,9 +16,11 @@
     <a href="https://leetcode.com//u/amirrfz2003/"><img width="48%" src="https://leetcode.card.workers.dev/u/amirrfz2003/?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 </p>
 -->
-
-<p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amir-rfz&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="45%">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Amir-rfz&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="45%">
-</p>
 <br clear="both">
+
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Amir-rfz&show_icons=true&locale=en&theme=dark" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amir-rfz&show_icons=true&locale=en&layout=compact&theme=dark" />
+</a>
