@@ -24,7 +24,6 @@
 </div>
 
 <br>
-<br>
 
 <div align="center">
   <a href="#">
@@ -35,7 +34,6 @@
   </a>
 </div>
 
-<br>
 <br>
 
 <div align="center">
