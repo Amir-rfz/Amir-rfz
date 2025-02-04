@@ -14,11 +14,14 @@
 </p>
 
 <br>
+
+---
+
 <br>
 
-<p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/amirrfz?theme=dark" width="60%" alt="Leetcode Stats">
-</p>
+<div align="center">
+  <img height=180 align="center" src="https://leetcard.jacoblin.cool/amirrfz?theme=dark" width="60%" alt="Leetcode Stats">
+</div>
 
 <br>
 <br>
