@@ -16,9 +16,9 @@
 <br>
 <br>
 
-<div align="center">
+<p align="center">
   <img align="center" src="https://leetcard.jacoblin.cool/amirrfz?theme=dark" width="60%" alt="Leetcode Stats">
-</div>
+</p>
 
 <br>
 <br>
