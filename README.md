@@ -5,9 +5,13 @@
   <h1>✩ Amir_rfz ✩</h1>
 </div>
 
+<br>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hiiiiiiiiiiiiiiii;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=380&height=50">
 </p>
+
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Amir-rfz&color=grey" alt="Profile views">
@@ -16,11 +20,9 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 
 <div align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/amirrfz?theme=dark" width="50%" alt="Leetcode Stats">
+  <img align="center" src="https://leetcard.jacoblin.cool/amirrfz?theme=dark" width="60%" alt="Leetcode Stats">
 </div>
 
 <br>
