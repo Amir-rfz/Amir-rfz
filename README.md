@@ -19,11 +19,13 @@
 
 <br>
 
+<!--
 <div align="center">
   <img height=180 align="center" src="https://leetcard.jacoblin.cool/amirrfz?theme=dark" width="60%" alt="Leetcode Stats">
 </div>
 
 <br>
+-->
 
 <div align="center">
   <a href="#">
