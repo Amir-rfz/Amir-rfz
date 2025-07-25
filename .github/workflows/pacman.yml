@@ -1,9 +1,9 @@
+# .github/workflows/pacman.yml
 name: Generate Pac‑Man contribution graph
 
 on:
   schedule:
-    # run once at 00:00 and once at 12:00 UTC every day
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"      # once at 00:00 and 12:00 UTC
   workflow_dispatch:
   push:
     branches:
@@ -15,20 +15,21 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
+
     steps:
-      - name: Checkout
+      - name: Checkout code
         uses: actions/checkout@v4
 
       - name: Generate pacman-contribution-graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          output: svg       # ← make sure you request SVG!
+          output: svg
 
-      - name: Publish to `output` branch
+      - name: Publish SVGs to `output` branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist  # ← the action will create `dist/*.svg`
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
