@@ -38,11 +38,13 @@
 </div>
 -->
 
+<!-- snake
 <br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Amir-rfz/Amir-rfz/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake" width="75%">
   <img src="https://raw.githubusercontent.com/Amir-rfz/Amir-rfz/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake" width="75%">
 </div>
+-->
 
 <picture>
   <source
