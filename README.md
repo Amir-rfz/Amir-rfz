@@ -39,8 +39,13 @@
 -->
 
 <br>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Amir-rfz/Amir-rfz/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake" width="75%">
   <img src="https://raw.githubusercontent.com/Amir-rfz/Amir-rfz/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake" width="75%">
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amir-rfz/Amir-rfz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amir-rfz/Amir-rfz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Amir-rfz/Amir-rfz/output/pacman-contribution-graph.svg">
+</picture>
