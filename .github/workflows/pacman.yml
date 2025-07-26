@@ -3,7 +3,7 @@ name: Generate Pac‑Man contribution graph
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */12 * * *"    # at 00:00 & 12:00 UTC daily
+    - cron: '*/5 * * * *'
   push:
     branches:
       - main
